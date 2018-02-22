@@ -1,0 +1,5 @@
+# README
+
+mkdocsを使ったドキュメンテーション作成を行うためのビルド環境を定義するDockerfile
+
+AWS CodeBuild のビルド環境として、このDockerfileをビルドしたDocker imageを利用する
